@@ -1,12 +1,12 @@
 # 👨‍💻 Daniel Lucas-Adebayo | Fullstack Developer 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/coollad49?style=social)](https://github.com/coollad49?tab=followers) [![LinkedIn](https://img.shields.io/badge/-Daniel%20Lucas-Adebayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub followers](https://img.shields.io/github/followers/coollad49?style=social)](https://github.com/coollad49?tab=followers) [![LinkedIn](https://img.shields.io/badge/-Daniel%20Lucas-Adebayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniellucasadebayo/)](https://www.linkedin.com/in/daniellucasadebayo/)
 
 ---
 
 ### 🌟 About Me
 
-Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer** with a love for building dynamic web applications. With a solid foundation in **Django** and **TailwindCSS**, I enjoy creating seamless user experiences and writing clean, efficient code.
+Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer** with a love for building dynamic web applications. With a solid foundation in **Django** , **Nextjs** and **TailwindCSS**, I enjoy creating seamless user experiences and writing clean, efficient code.
 
 - 🎓 **Software Engineering Student** at Mountain Top University
 - 💻 **Software Engineering Fellow** at Headstarter
@@ -21,16 +21,16 @@ Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Python, Django, Node.js, Firebase
 - **Databases:** SQLite, Firebase
-- **DevOps:** Git, GitHub, Render
-- **AI/ML:** Vertex AI, Amazon Bedrock
+- **DevOps:** Git, GitHub, Render, ec2
+- **AI/ML:** OpenRouter
 
 ---
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📫 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniellucasadebayo/)
+- 🐦 [Twitter](https://x.com/LucasAdebayoDa2)
+- 📫 [Email](mailto:daniellucasadebayo@gmail.com)
 
 ---
 
