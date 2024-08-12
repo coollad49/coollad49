@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👨‍💻 Daniel Lucas-Adebayo | Fullstack Developer 🚀
 
-<!--
-**coollad49/coollad49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/coollad49?style=social)](https://github.com/coollad49?tab=followers) [![LinkedIn](https://img.shields.io/badge/-Daniel%20Lucas-Adebayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/your-linkedin)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer** with a love for building dynamic web applications. With a solid foundation in **Django** and **TailwindCSS**, I enjoy creating seamless user experiences and writing clean, efficient code.
+
+- 🎓 **Software Engineering Student** at Mountain Top University
+- 💻 **Software Engineering Fellow** at Headstarter
+- 🌱 Always learning and exploring new tech—currently diving into **Machine Learning** and **Deep Learning**
+- 📚 Building cool projects like [Task Management Dashboard](https://github.com/coollad49/task-management-dashboard-application)
+- 🚀 Striving to make a GitHub commit every day!
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Python, Django, Node.js, Firebase
+- **Databases:** SQLite, Firebase
+- **DevOps:** Git, GitHub, Render
+- **AI/ML:** Vertex AI, Amazon Bedrock
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🐦 [Twitter](https://twitter.com/your-twitter)
+- 📫 [Email](mailto:your-email@example.com)
+
+---
+
+### 📈 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coollad49&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+- [🌟 **Task Management Dashboard**](https://github.com/coollad49/task-management-dashboard-application) - A powerful tool to manage tasks efficiently.
+- [🧠 **Customer Support AI**](https://github.com/coollad49/customer_support_chatbot) - Building a Customer Support App, deployed on ec2.
+- [🧠 **Customer Support AI**](https://github.com/coollad49/inventory-management) - An Inventory/Pastry Tracker App
+
+---
+
+### ✨ Fun Facts
+
+- 🧩 I love solving puzzles and challenges, whether it's coding or brain teasers!
+- 🎮 In my free time, you'll find me gaming or exploring new tech.
+
+---
+
+Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
+"""
