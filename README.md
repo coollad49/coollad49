@@ -44,7 +44,7 @@ Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer
 
 - [🌟 **Task Management Dashboard**](https://github.com/coollad49/task-management-dashboard-application) - A powerful tool to manage tasks efficiently.
 - [🧠 **Customer Support AI**](https://github.com/coollad49/customer_support_chatbot) - Building a Customer Support App, deployed on ec2.
-- [🧠 **Customer Support AI**](https://github.com/coollad49/inventory-management) - An Inventory/Pastry Tracker App
+- [🛍 **Inventory Management App**](https://github.com/coollad49/inventory-management) - An Inventory/Pastry Tracker App
 
 ---
 
