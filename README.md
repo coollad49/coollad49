@@ -18,11 +18,11 @@ Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Python, Django, Node.js, Firebase
-- **Databases:** SQLite, Firebase
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Django, Node.js, Nextjs
+- **Databases:** SQLite, Firebase, Supabase-postgres
 - **DevOps:** Git, GitHub, Render, ec2
-- **AI/ML:** OpenRouter
+- **AI/ML:** OpenRouter, Hugging Face
 
 ---
 
