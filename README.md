@@ -10,7 +10,7 @@ Hey there! I'm **Daniel Lucas-Adebayo** 👋, a passionate **Fullstack Developer
 
 - 🎓 **Software Engineering Student** at Mountain Top University
 - 💻 **Software Engineering Fellow** at Headstarter
-- 🌱 Always learning and exploring new tech—currently diving into **Deep Learning** and **C Programming**
+- 🌱 Always learning and exploring new tech—currently diving into **Deep Learning** and **C++ Programming**
 - 📚 Building cool projects like [Task Management Dashboard](https://github.com/coollad49/task-management-dashboard-application)
 - 🚀 Striving to make a GitHub commit every day!
 
