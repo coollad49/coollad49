@@ -1,5 +1,5 @@
-# Daniel Lucas-Adebayo 👋  
-**Product-Focused Engineer · Founder-in-the-Making**
+# Hello, I'm Daniel 👋  
+**A Product-Focused Engineer · Founder-in-the-Making**
 
 I build **real products**, not demos.
 
