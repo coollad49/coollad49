@@ -1,5 +1,5 @@
 # Hello, I'm Daniel 👋  
-**A Product-Focused Engineer · Founder-in-the-Making**
+**A Product-Focused Engineer**
 
 I build **real products**, not demos.
 
@@ -15,7 +15,7 @@ I’m currently building quietly.
 - Designing AI systems with **clear guardrails** and real utility
 - Automating boring, error-prone processes
 - Building tools for **education, operations, and internal teams**
-- Thinking like a **founder**, even when writing backend code
+- Thinking like a **founder**, even when writing client's code
 
 I don’t chase trends.  
 I chase problems that shouldn’t exist anymore.
